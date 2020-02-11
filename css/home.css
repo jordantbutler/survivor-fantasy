@@ -1,0 +1,33 @@
+.players {
+  height: 40px;
+  width: 70%;
+  border-radius: 15px;
+  margin-left: 15%;
+  margin-bottom: -15px;
+  text-transform: uppercase;
+  cursor: move;
+}
+
+.players img {
+  height: 100%;
+  float: left;
+  opacity: 100%;
+}
+
+.players h3 {
+  height: 100%;
+  text-align: center;
+  padding-top: 7px;
+}
+
+.tribe-1 {
+  background-color: red;
+  color: white;
+  opacity: 75%;
+}
+
+.tribe-2 {
+  background-color: blue;
+  color: white;
+  opacity: 75%;
+}
